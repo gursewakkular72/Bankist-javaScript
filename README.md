@@ -1,5 +1,7 @@
 ﻿# Bankist-javaScript  <br /> <br />
  
+ see the app live at https://gursewaksinghbankist.netlify.app/
+ 
 Please note, the HTML and CSS in this project is not mine. I made this project as a part of an online javaScript course. The HTML and CSS in this project belongs to the instructor, Jonas Schmedtmann. However, I coded the javaScript by myself. <br /> <br />
 A minimalistic dynamic, but static web application, developed using JavaScript, which demonstrates a bank interface allows <br /> <br />
 users to transfer money to different accounts, request loan, logs out the user automatically after certain time of inactivity, <br /> <br />
